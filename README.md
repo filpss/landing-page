@@ -21,10 +21,14 @@ Este projeto foi desenvolvido com [Angular CLI](https://github.com/angular/angul
 - <strong> Signals </strong>, que trás uma forma nativa de criar valores que podem ser alterados e manter o rastreio dos mesmos, semelhante ao Observable<>, do rxjs.
 - <strong> Client HTTP </strong>, agora podemos utilizar um provider provideHttpClient(withFetch()) ao invés de importar o módulo HttpClientModule.
 
-## Como testar?
+## Como testar ou usar como base para seus projetos?
 
 Clone este repositório, ou baixe o arquivo .zip na aba `<> Code`. Após isso, basta entrar na pasta raiz do projeto e executar o comando `ng serve` no terminal. Se tudo ocorrer bem, abra seu navegador e navegue até o link: `http://localhost:4200/`, e voilà!
 
+## Link na web
+
+Acesse o link <a href="https://landing-page-chi-six-50.vercel.app" target="_blank">https://landing-page-chi-six-50.vercel.app</a> para ver a landing page no ar.
+
 ## Atualizações
 
-<p>Este projeto não está finalizado, ainda pretendo construir uma API backend com <strong> Java, Spring e SQLite </strong> para guardar os nomes e emails da galera e gerar uma planilha de excel com esses dados utilizando <strong> Python </strong>. Fica ligado que em breve tem mais atualização 😉.</p>
+<p>Este projeto não está finalizado, estou tratando a responsividade para dispositivos móveis e ainda pretendo construir uma API backend com <strong> Java, Spring e PostgreSQL </strong> para guardar os nomes e emails da galera e gerar uma planilha de excel com esses dados utilizando <strong> Python </strong>. Fica ligado que em breve tem mais atualização 😉.</p>
